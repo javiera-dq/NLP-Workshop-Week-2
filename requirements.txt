@@ -1,0 +1,13 @@
+pandas
+nltk
+spacy
+python-dotenv
+beautifulsoup4
+requests
+tweepy
+bertopic
+sentence_transformers
+umap-learn
+pyyaml
+scikit-learn
+bs4
